@@ -8,7 +8,6 @@ function About() {
         {name:'Rajat' , age:'24' , address:'allaabad'},
         {name:'badrish' , age:'26' , address:'gurugram'},
         {name:'vibhav' , age:'27' , address:'sultanpur'},
-        {name:'vibhav' , age:'27' , address:'sultanpur'},
         {name:'shivam' , age:'25' , address:'noida'}
     ])
 
